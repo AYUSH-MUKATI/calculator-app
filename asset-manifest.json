@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AYUSH-MUKATI.github.io/calculator-app/static/css/main.a256f939.css",
+    "main.js": "/AYUSH-MUKATI.github.io/calculator-app/static/js/main.509ec542.js",
+    "index.html": "/AYUSH-MUKATI.github.io/calculator-app/index.html",
+    "main.a256f939.css.map": "/AYUSH-MUKATI.github.io/calculator-app/static/css/main.a256f939.css.map",
+    "main.509ec542.js.map": "/AYUSH-MUKATI.github.io/calculator-app/static/js/main.509ec542.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a256f939.css",
+    "static/js/main.509ec542.js"
+  ]
+}
